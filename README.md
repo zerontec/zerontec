@@ -1,4 +1,7 @@
 <h1> Full Stack Web Developer</h1>
+
+
+
 <h3>Binvenidos me pueden llamar Leo. Soy Desarrollador Web  Full Stack </h3>
 
 <p>Me encuentro siempre en constante Preparación y Desarrollo </p>
@@ -34,3 +37,6 @@
     
  <H2> Puedes Conectar conmigo usando estos medios  </h2>   
   
+  
+  
+  <img src="https://www.dafont.com/forum/attach/orig/7/8/785505.jpg">
