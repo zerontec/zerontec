@@ -1,6 +1,6 @@
 <h1> Full Stack Web Developer</h1>
 
-
+ <img src="https://media-exp1.licdn.com/dms/image/C5616AQFq9QtTreXPXA/profile-displaybackgroundimage-shrink_200_800/0/1638129412222?e=1643846400&v=beta&t=lZItV7hwj-xIbf4rQv_PpsbvUpk4mF6qwN_KelDLwn4">
 
 <h3>Binvenidos me pueden llamar Leo. Soy Desarrollador Web  Full Stack </h3>
 
@@ -39,4 +39,4 @@
   
   
   
-  <img src="https://www.dafont.com/forum/attach/orig/7/8/785505.jpg">
+ 
