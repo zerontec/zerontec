@@ -1,6 +1,6 @@
 <h1> Full Stack Web Developer</h1>
 
- <img src="https://media-exp1.licdn.com/dms/image/C5616AQFq9QtTreXPXA/profile-displaybackgroundimage-shrink_200_800/0/1638129412222?e=1643846400&v=beta&t=lZItV7hwj-xIbf4rQv_PpsbvUpk4mF6qwN_KelDLwn4">
+
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <h3>Binvenidos me pueden llamar Leo. Soy Desarrollador Web  Full Stack </h3>
@@ -34,8 +34,10 @@
 - :dart: Life Hack: "Siempre en constante preparacion y actualizacion " 
 
     ### Disponible para Empleo 
-  :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+  :paperclip: [My Resume/CV Español](https://github.com/zerontec/zerontec/blob/master/projects/ResumenLeoAc.pdf) 
+  :paperclip: [My Resume/CV English](https://github.com/zerontec/zerontec/blob/master/projects/CVleoE.pdf) 
+- :email: devsignweb@gmail.com
+- portafolio: https://leozeron.web.app/
 
 
     
