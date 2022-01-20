@@ -1,6 +1,7 @@
 <h1> Full Stack Web Developer</h1>
 
  <img src="https://media-exp1.licdn.com/dms/image/C5616AQFq9QtTreXPXA/profile-displaybackgroundimage-shrink_200_800/0/1638129412222?e=1643846400&v=beta&t=lZItV7hwj-xIbf4rQv_PpsbvUpk4mF6qwN_KelDLwn4">
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <h3>Binvenidos me pueden llamar Leo. Soy Desarrollador Web  Full Stack </h3>
 
@@ -28,11 +29,15 @@
 
 - :computer: Finalizando Bootcamp intensivo soy Henry
 - :hourglass_flowing_sand:  Desarrollo Front End con React ademas de Conocimientos en Angular
-- :rocket: Desarrollo Backen con Node Express 
+- :rocket: Desarrollo Backend con Nodejs Express Sequelize postgres mongodb
 - :man_technologist: Bases de Datos Realcionales y no Relacionales 
 - :dart: Life Hack: "Siempre en constante preparacion y actualizacion " 
 
-    
+    ### Disponible para Empleo 
+  :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :email: ipenywis@gmail.com
+
+
     
     
  <H2> Puedes Conectar conmigo usando estos medios  </h2>   
