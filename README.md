@@ -34,8 +34,8 @@
 - :dart: Life Hack: "Siempre en constante preparacion y actualizacion " 
 
     ### Disponible para Empleo 
-  :paperclip: [My Resume/CV Español](https://github.com/zerontec/zerontec/blob/master/projects/ResumenLeoAc.pdf) 
-  :paperclip: [My Resume/CV English](https://github.com/zerontec/zerontec/blob/master/projects/CVleoE.pdf) 
+  :paperclip: [My Resume/CV Español](https://github.com/zerontec/zerontec/blob/master/projects/Leoberto's%20Resume.pdf) 
+  :paperclip: [My Resume/CV English](https://github.com/zerontec/zerontec/blob/master/projects/Leoberto's%20Resume%20(E).pdf) 
 - :email: devsignweb@gmail.com
 - portafolio: https://leozeron.web.app/
 
