@@ -3,10 +3,10 @@
 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<h3>Binvenidos me pueden llamar Leo. Soy Desarrollador Web  Full Stack </h3>
+<h3>Welcome you can call me Leo. I'm a Full Stack Web Developer </h3>
 
-<p>Me encuentro siempre en constante Preparación y Desarrollo </p>
-<H2> Algunas de mis Herramientas de Desarrollo </h2>
+<p>I am always in constant Preparation and Development, I am passionate about this industry </p>
+<H2>some of my tools </h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -27,13 +27,13 @@
     <h2>👨🏻‍💻  Ago sobre mi:</h2>
   
 
-- :computer: Finalizando Bootcamp intensivo soy Henry
-- :hourglass_flowing_sand:  Desarrollo Front End con React ademas de Conocimientos en Angular
-- :rocket: Desarrollo Backend con Nodejs Express Sequelize postgres mongodb
-- :man_technologist: Bases de Datos Realcionales y no Relacionales 
-- :dart: Life Hack: "Siempre en constante preparacion y actualizacion " 
+- :computer: Full stack web developer, bootcamp intensive I'm Henry
+- :hourglass_flowing_sand:  Front End Development with React in addition to Knowledge in Angular
+- :rocket: Backend development with Nodejs Express Sequelize postgres mongodbdb
+- :man_technologist: Relational and non-relational databases 
+- :dart: Life Hack: "Always in constant preparation and updating " 
 
-    ### Disponible para Empleo 
+    ###Available for Employment
   :paperclip: [My Resume/CV Español](https://github.com/zerontec/zerontec/blob/master/projects/Leoberto's%20Resume.pdf) 
   :paperclip: [My Resume/CV English](https://github.com/zerontec/zerontec/blob/master/projects/Leoberto's%20Resume%20(E).pdf) 
 - :email: devsignweb@gmail.com
@@ -42,7 +42,7 @@
 
     
     
- <H2> Puedes Conectar conmigo usando estos medios  </h2>   
+ <H2> You can connect with me using these means  </h2>   
   
   
   
