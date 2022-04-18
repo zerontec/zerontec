@@ -24,7 +24,7 @@
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
-    <h2>👨🏻‍💻  Ago sobre mi:</h2>
+    <h2>👨🏻‍💻  something more about me:</h2>
   
 
 - :computer: Full stack web developer, bootcamp intensive I'm Henry
