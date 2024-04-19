@@ -35,7 +35,7 @@
 
     ###Available for Employment
   :paperclip: [My Resume/CV Español](https://github.com/zerontec/zerontec/blob/master/projects/CurriculumELEsp.pdf) 
-  :paperclip: [My Resume/CV English](https://github.com/zerontec/zerontec/blob/master/projects/LeobertoResumeE2922.pdf) 
+  :paperclip: [My Resume/CV English](https://github.com/zerontec/zerontec/blob/master/projects/CurriculumEnglisActu.pdf) 
 - :email: devsignweb@gmail.com
 - portafolio: https://leozeron.web.app/
 
